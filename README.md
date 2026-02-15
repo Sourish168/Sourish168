@@ -1,52 +1,60 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👋 Hey there, I'm Sourish!
 
-###
+I’m a passionate **Data Scientist** who loves solving real-world problems with data and machine learning. I enjoy building clean, well-structured data products & exploring insights that help drive decisions.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+## 🔍 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 📊 **Data Scientist** with a strong foundation in Machine Learning, Python, and data analysis  
+- 🧠 Experienced in building end-to-end projects — from data processing to modeling and visualization  
+- 🌱 Constantly learning new techniques in Deep Learning, big data (PySpark), and MLOps  
+- 🎯 Focused on delivering practical results and building projects that make an impact
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🛠️ Skills & Tech Stack
 
-###
+- **Languages:** Python, SQL  
+- **Data Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
+- **Big Data:** PySpark  
+- **Machine Learning:** Regression, Classification, Model Evaluation  
+- **Deep Learning:** Neural Networks, (CNN / NLP basics)  
+- **Deployment:** Streamlit, Flask / FastAPI (for demo apps)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📂 Featured Projects
+
+Here are a few examples of what you can find on my GitHub:
+
+🔹 *End-to-end ML projects* — Data cleaning, model building & evaluation  
+🔹 *Deep Learning experiments* — Vision & NLP models  
+🔹 *SQL & PySpark workflows* — Large-scale data processing  
+🔹 *Interactive demos* — Deployed models with Streamlit or APIs
+
+_(More coming soon – keep an eye on my repositories!)_
+
+---
+
+## 🌟 Fun Facts
+
+When I’m not coding with data, you’ll find me:
+
+🎯 **Bike Riding** – exploring new paths and capturing scenic routes  
+📸 **Photography** – freezing moments from life’s adventures  
+⚽ **Football Enthusiast** – cheering on my favorite teams and playing when I can
+
+---
+
+## 📫 Let’s Connect
+
+Feel free to reach out or check out my work:
+
+- 🧑‍💻 GitHub: https://github.com/your-username  
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-profile  
+- 📸 Instagram/Photography Portfolio: https://your-portfolio-link
+
+---
+
+Thanks for stopping by! 🚀
