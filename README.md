@@ -51,9 +51,9 @@ When I’m not coding with data, you’ll find me:
 
 Feel free to reach out or check out my work:
 
-- 🧑‍💻 GitHub: https://github.com/your-username  
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-profile  
-- 📸 Instagram/Photography Portfolio: https://your-portfolio-link
+- 🧑‍💻 GitHub: https://github.com/Sourish168  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sourish-ghosh-49aa451ba/  
+- 📸 Instagram/Photography Portfolio: https://www.instagram.com/galerie_de_sou/
 
 ---
 
