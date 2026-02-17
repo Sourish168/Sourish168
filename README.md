@@ -51,10 +51,10 @@ When I’m not coding with data, you’ll find me:
 ![Coding GIF](https://your-coding-gif.gif)
 
 ### 🚴 On My Bike Ride
-![Bike Ride GIF](https://www.essaarmotors.com/)
+![Bike Ride GIF](https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/df2bc9c5-89e2-48fc-b12b-c4d52db27537_medium.webp)
 
 ### 📸 Capturing Nature
-![Photography GIF](https://cheezburger.com/11414533/all-natural-time-lapse-gifs)
+![Photography GIF](https://www.instagram.com/p/COLbNouMDZ_/)
 
 ### ⚽ Football Time!
 ![Football GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng5bnExYTNqeWpwNDlpYmJ6aHMycXdoMDY2MjU1aW5xZTFzYnpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cyro9Vo2FNhZ5mucq/giphy.gif)
