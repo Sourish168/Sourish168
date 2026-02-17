@@ -47,6 +47,20 @@ When I’m not coding with data, you’ll find me:
 
 ---
 
+### 🧠 When I’m Coding…
+![Coding GIF](https://your-coding-gif.gif)
+
+### 🚴 On My Bike Ride
+![Bike Ride GIF](https://www.essaarmotors.com/)
+
+### 📸 Capturing Nature
+![Photography GIF](https://cheezburger.com/11414533/all-natural-time-lapse-gifs)
+
+### ⚽ Football Time!
+![Football GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng5bnExYTNqeWpwNDlpYmJ6aHMycXdoMDY2MjU1aW5xZTFzYnpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cyro9Vo2FNhZ5mucq/giphy.gif)
+
+---
+
 ## 📫 Let’s Connect
 
 Feel free to reach out or check out my work:
