@@ -48,13 +48,13 @@ When I’m not coding with data, you’ll find me:
 ---
 
 ### 🧠 When I’m Coding…
-![Coding GIF](https://your-coding-gif.gif)
+![Coding GIF](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 ### 🚴 On My Bike Ride
 ![Bike Ride GIF](https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/df2bc9c5-89e2-48fc-b12b-c4d52db27537_medium.webp)
 
 ### 📸 Capturing Nature
-![Photography GIF](https://www.instagram.com/p/COLbNouMDZ_/)
+![Photography GIF](https://upload.wikimedia.org/wikipedia/commons/5/59/Nature.gif)
 
 ### ⚽ Football Time!
 ![Football GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng5bnExYTNqeWpwNDlpYmJ6aHMycXdoMDY2MjU1aW5xZTFzYnpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cyro9Vo2FNhZ5mucq/giphy.gif)
