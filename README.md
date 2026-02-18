@@ -1,4 +1,5 @@
 # 👋 Hey there, I'm Sourish!
+![Warm Greetings GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091)
 
 I’m a passionate **Data Scientist** who loves solving real-world problems with data and machine learning. I enjoy building clean, well-structured data products & exploring insights that help drive decisions.
 
