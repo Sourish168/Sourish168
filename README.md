@@ -78,6 +78,7 @@ Coding • Bike Riding • Photography • Football
 - 🧑‍💻 GitHub: https://github.com/Sourish168  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sourish-ghosh-49aa451ba/  
 - 📸 Instagram: https://www.instagram.com/galerie_de_sou/
+- 📧 Mail ID: ghoshsourish168@gmail.com
 
 ---
 
