@@ -8,7 +8,7 @@ I’m a passionate **Data Scientist** who loves solving real-world problems with
 
 <p align="center">
   <a href="./Sourish_Ghosh_Data_Scientist_Resume.pdf">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-red?style=for-the-badge" />
   </a>
 </p>
 
