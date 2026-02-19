@@ -7,7 +7,7 @@
 I’m a passionate **Data Scientist** who loves solving real-world problems with data and machine learning. I enjoy building clean, well-structured data products & exploring insights that help drive decisions.
 
 <p align="center">
-  <a href="./Sourish_Ghosh_Data_Scientist_Resume.pdf">
+  <a href="./Sourish_Ghsoh_Resume_New.pdf">
     <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-red?style=for-the-badge" />
   </a>
 </p>
