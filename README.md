@@ -12,7 +12,7 @@ I’m a passionate **Data Scientist** who enjoys solving real-world problems usi
 I love building clean, scalable data solutions and continuously learning new technologies in AI and Data Science.
 
 <p align="center">
-  <a href="./Sourish_Ghsoh_Resume_New.pdf">
+  <a href="./PDFs/Sourish_Ghsoh_Resume_New.pdf">
     <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-red?style=for-the-badge" />
   </a>
 </p>
