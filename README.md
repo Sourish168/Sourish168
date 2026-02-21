@@ -1,10 +1,15 @@
-# 👋 Hey there, I'm Sourish!
+# 👋 Hello, I'm Sourish!
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="450" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="420" />
 </p>
 
-I’m a passionate **Data Scientist** who loves solving real-world problems with data and machine learning. I enjoy building clean, well-structured data products & exploring insights that help drive decisions.
+<p align="center">
+Data Scientist • Machine Learning • Data Analytics • AI Enthusiast
+</p>
+
+I’m a passionate **Data Scientist** who enjoys solving real-world problems using **data, machine learning, and intelligent systems**.  
+I love building clean, scalable data solutions and continuously learning new technologies in AI and Data Science.
 
 <p align="center">
   <a href="./Sourish_Ghsoh_Resume_New.pdf">
@@ -14,57 +19,121 @@ I’m a passionate **Data Scientist** who loves solving real-world problems with
 
 ---
 
-## 🔍 About Me
+# 🚀 About Me
 
-- 📊 **Data Scientist** with a strong foundation in Machine Learning, Python, and data analysis  
-- 🧠 Experienced in building end-to-end projects — from data processing to modeling and visualization  
-- 🌱 Constantly learning new techniques in Deep Learning, big data (PySpark), and MLOps  
-- 🎯 Focused on delivering practical results and building projects that make an impact
-
----
-
-## 🛠️ Skills & Tech Stack
-
-- **Languages:** Python, SQL  
-- **Data Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
-- **Big Data:** PySpark  
-- **Machine Learning:** Regression, Classification, Model Evaluation  
-- **Deep Learning:** Neural Networks (CNN / NLP basics)  
-- **Deployment:** Streamlit, Flask / FastAPI
+- 📊 Data Scientist passionate about turning **data into meaningful insights**
+- 🧠 Experienced in **end-to-end Machine Learning pipelines**
+- ⚙️ Skilled in **Python, SQL, and data analysis**
+- 🌱 Currently exploring **Deep Learning, PySpark, and MLOps**
+- 🎯 Focused on solving **real-world business problems using AI**
 
 ---
 
-## 📂 Featured Projects
+# 🧠 Skills & Tech Stack
 
-🔹 End-to-end ML projects  
-🔹 Deep Learning experiments  
-🔹 SQL & PySpark workflows  
-🔹 Interactive deployed demos
+### 💻 Programming
+- Python
+- SQL
 
-_(More coming soon – keep an eye on my repositories!)_
+### 📊 Data Science & ML
+- Pandas
+- NumPy
+- Scikit-Learn
+- Machine Learning
+- Model Evaluation
+
+### 🧬 Deep Learning
+- Neural Networks
+- CNN (Basics)
+- NLP (Basics)
+
+### ⚡ Big Data
+- PySpark
+
+### 🚀 Deployment
+- Streamlit
+- Flask
+- FastAPI
 
 ---
 
-## 🌟 Fun Facts
+# 💼 Professional Experience
 
-When I’m not coding with data, you’ll find me:
+### 🏢 [Sravathi AI Tech PVT LTD](https://sravathi.ai/)
+Data Scientist • [Bangalore, India]()
 
-🎯 **Bike Riding** – exploring new paths and capturing scenic routes  
-📸 **Photography** – freezing moments from life’s adventures  
-⚽ **Football Enthusiast**
+- 💻 Building Machine Learning models for real-world problems  
+- 📊 Developing data pipelines and performing advanced analysis  
+- 🧠 Working with Python, SQL, and large datasets  
+- 🚀 Improving skills in Deep Learning and scalable ML systems  
 
 ---
 
-## 🚀 A Bit About My Life Outside Data
+### 🏢 IonCure Tech PVT LTD  
+Remote
+
+*(Experience details can be added here later)*
+
+---
+
+# 🎓 Educational Institutions
+
+### 🎓 [Ramakrishna Mission Vivekananda Educational and Research Institute](https://rkmvu.ac.in/) | [RKMVERI](https://rkmvu.ac.in/)
+[Belur, Howrah, West Bengal](https://maps.app.goo.gl/NCZfmLE5FydRFhiD9)
+
+**Master’s Degree — [Data Science / Big Data Analytics](https://cs.rkmvu.ac.in/academics-msc-in-big-data-analytics-data-science/)**
+- 📊 Focus: Data Science, Machine Learning, Deep Learning, Statistics  
+- 📚 Interests: AI, Data Engineering, Advanced Analytics  
+
+---
+
+### 🎓 [Chandernagore College](https://www.chandernagorecollege.ac.in/) | [The University of Burdwan](https://www.buruniv.ac.in/)
+[Chandannagar, Hooghly, West Bengal](https://maps.app.goo.gl/HuwTFW46ewZ9qApr6)
+
+**Bachelor’s Degree — [Mathematics](https://www.chandernagorecollege.ac.in/department.php?dept=MATH)**
+- 📊 Core Subjects:
+  - Linear Algebra
+  - Abstract Algebra
+  - Calculus
+  - Optimization
+  - Numerical Analysis
+  - Real Analysis
+- 🧠 Developed strong analytical and problem-solving skills
+
+---
+
+# 📂 Featured Work
+
+- 🔹 End-to-End Machine Learning Projects  
+- 🔹 Deep Learning Experiments  
+- 🔹 SQL & PySpark Workflows  
+- 🔹 Data Analysis Projects  
+- 🔹 Interactive ML Demos  
+
+*(More projects coming soon — stay tuned!)*
+
+---
+
+# 🌟 Life Beyond Data
+
+When I'm not working with data, I enjoy:
+
+🚴 Bike Riding  
+📸 Nature Photography  
+⚽ Football  
+
+---
+
+# 🚀 A Bit About My Life Outside Data
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
-  <img src="https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/df2bc9c5-89e2-48fc-b12b-c4d52db27537_medium.webp" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280"/>
+  <img src="https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/df2bc9c5-89e2-48fc-b12b-c4d52db27537_medium.webp" width="280"/>
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Nature.gif" width="300"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng5bnExYTNqeWpwNDlpYmJ6aHMycXdoMDY2MjU1aW5xZTFzYnpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cyro9Vo2FNhZ5mucq/giphy.gif" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Nature.gif" width="280"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng5bnExYTNqeWpwNDlpYmJ6aHMycXdoMDY2MjU1aW5xZTFzYnpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8cyro9Vo2FNhZ5mucq/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
@@ -73,34 +142,13 @@ Coding • Bike Riding • Photography • Football
 
 ---
 
-## 📫 Let’s Connect
+# 📫 Connect With Me
 
 - 🧑‍💻 GitHub: https://github.com/Sourish168  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sourish-ghosh-49aa451ba/  
-- 📸 Instagram: https://www.instagram.com/galerie_de_sou/
-- 📧 Mail ID: ghoshsourish168@gmail.com
+- 📸 Photography: https://www.instagram.com/galerie_de_sou/  
+- 📧 Email: ghoshsourish168@gmail.com  
 
 ---
 
-## 💼 Professional Life
-
-### [Sravathi AI Tech PVT LTD](https://sravathi.ai/) | [Bangalore, India](https://maps.app.goo.gl/y1CtnSbYCK43DLX39)
-- 💻 Working as a **Data Scientist**
-- 📊 Experience in building Machine Learning models and data pipelines
-- 🧠 Working with Python, SQL, and real-world datasets
-- 🚀 Currently improving skills in Deep Learning, PySpark, and MLOps
-
----
-
-## 🎓 Education Life
-
-### 🎓 Master’s Degree (Data Science / Big Data Analytics)  
-- 📊 Focus Areas: Data Science, Machine Learning, Deep Learning, Statistics  
-- 📚 Interested in learning advanced AI, Deep Learning, and Data Engineering
-
-### 🎓 Bachelor’s Degree (Mathematics)
-- 📊 Focus Areas: Linear Algebra, Abstract Algebra, Calculus, Optimization, Numerical Analysis, Real Analysis
-- 📚 Interested in learning Coding, Real World Problem Solving and Devoloping Theories
-
----
-Thanks for stopping by! 🚀
+⭐ Thanks for visiting my profile!
