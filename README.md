@@ -82,6 +82,16 @@ Coding • Bike Riding • Photography • Football
 
 ---
 
+## 💼 Professional Life
+
+### [Sravathi AI Tech PVT LTD](https://sravathi.ai/) | [Bangalore, India](https://maps.app.goo.gl/y1CtnSbYCK43DLX39)
+- 💻 Working as a **Data Scientist**
+- 📊 Experience in building Machine Learning models and data pipelines
+- 🧠 Working with Python, SQL, and real-world datasets
+- 🚀 Currently improving skills in Deep Learning, PySpark, and MLOps
+
+---
+
 ## 🎓 Education Life
 
 ### 🎓 Master’s Degree (Data Science / Big Data Analytics)  
