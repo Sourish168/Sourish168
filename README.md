@@ -60,8 +60,9 @@ I love building clean, scalable data solutions and continuously learning new tec
 # 💼 Professional Experience
 
 ### 🏢 [Sravathi AI Tech PVT LTD](https://sravathi.ai/)
-Data Scientist • [Bangalore, India]()
+**Associate Data Scientist** • [Bangalore, India](https://maps.app.goo.gl/4hDsJZk6nNWLffNU7)
 
+*Nov, 2024 - Present*
 - 💻 Building Machine Learning models for real-world problems  
 - 📊 Developing data pipelines and performing advanced analysis  
 - 🧠 Working with Python, SQL, and large datasets  
@@ -69,8 +70,10 @@ Data Scientist • [Bangalore, India]()
 
 ---
 
-### 🏢 IonCure Tech PVT LTD  
-Remote
+### 🏢 [IonCure Tech PVT LTD](https://ioncurerx.com/)
+**Data Science Intern** • Remote
+
+*June 2024 - July 2024*
 
 *(Experience details can be added here later)*
 
