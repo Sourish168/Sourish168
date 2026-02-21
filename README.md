@@ -82,4 +82,15 @@ Coding • Bike Riding • Photography • Football
 
 ---
 
+## 🎓 Education Life
+
+### 🎓 Master’s Degree (Data Science / Big Data Analytics)  
+- 📊 Focus Areas: Data Science, Machine Learning, Deep Learning, Statistics  
+- 📚 Interested in learning advanced AI, Deep Learning, and Data Engineering
+
+### 🎓 Bachelor’s Degree (Mathematics)
+- 📊 Focus Areas: Linear Algebra, Abstract Algebra, Calculus, Optimization, Numerical Analysis, Real Analysis
+- 📚 Interested in learning Coding, Real World Problem Solving and Devoloping Theories
+
+---
 Thanks for stopping by! 🚀
