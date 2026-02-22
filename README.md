@@ -29,31 +29,38 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 ---
 
-# 🧠 Skills & Tech Stack
+## 🧠 Skills & Tech Stack
 
 ### 💻 Programming
-- Python
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### 📊 Data Science & ML
-- Pandas
-- NumPy
-- Scikit-Learn
-- Machine Learning
-- Model Evaluation
-
-### 🧬 Deep Learning
-- Neural Networks
-- CNN (Basics)
-- NLP (Basics)
+### 📊 Data Science & ML & DL
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
 ### ⚡ Big Data
-- PySpark
+<p>
+  <img src="https://skillicons.dev/icons?i=spark" />
+</p>
 
 ### 🚀 Deployment
-- Streamlit
-- Flask
-- FastAPI
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+</p>
+
+## ⚙️ Tools I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
