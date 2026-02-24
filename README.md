@@ -46,7 +46,7 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 <h3 align="center">📊 Data Science / Machine Learning / Deep Learning</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=10&i=numpy,pandas,matplotlib,jupyter"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=numpy,pandas,matplotlib,huggingface"/>
   <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
 </p>
 
