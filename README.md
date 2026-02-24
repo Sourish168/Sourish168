@@ -19,7 +19,15 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 ---
 
-# 🚀 About Me
+<h2 align="center">🔥   My Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sourish168&theme=neon-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="220"  />
+</div>
+
+---
+
+<h1 align="left"> 🚀 About Me </h1>
 
 - 📊 Data Scientist passionate about turning **data into meaningful insights**
 - 🧠 Experienced in **end-to-end Machine Learning pipelines**
@@ -29,36 +37,38 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 ---
 
-## 🧠 Skills & Tech Stack
+<h2 align="right"> 🧠 Skills & Tech Stack </h2>
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres" />
+<h3 align="right"> 💻 Programming </h3>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres"/>
 </p>
 
-### 📊 Data Science & ML & DL
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn,tensorflow,pytorch" />
+<h3 align="right"> 📊 Data Science & ML & DL </h3>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn,tensorflow,pytorch"/>
 </p>
 
-### ⚡ Big Data
-<p>
-  <img src="https://skillicons.dev/icons?i=spark" />
+<h3 align="right"> ⚡ Big Data </h3>
+<p align="right">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=apachespark"/>
 </p>
 
-### 🚀 Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=streamlit" />
+<h3 align="right"> 🚀 Deployment </h3>
+<p align="right">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=streamlit"/>
 </p>
 
-## ⚙️ Tools I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+<h3 align="right"> ⚙️ Tools I Use </h3>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=github,vscode"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=jupyter"/>
 </p>
 
-## ⚙️ OS I Can Use
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux," />
+<h3 align="right"> ⚙️ OS I Can Use </h3>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=windows,linux"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=macos"/>
 </p>
 
 ---
