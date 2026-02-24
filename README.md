@@ -44,9 +44,10 @@ I love building clean, scalable data solutions and continuously learning new tec
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres"/>
 </p>
 
-<h3 align="right"> 📊 Data Science & ML & DL </h3>
+<h3 align="right"> 📊 Data Science & ML / DL </h3>
 <p align="right">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn,tensorflow,pytorch"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=numpy,pandas,matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
 </p>
 
 <h3 align="right"> ⚡ Big Data </h3>
