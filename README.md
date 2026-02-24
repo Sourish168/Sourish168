@@ -57,7 +57,7 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 <h3 align="center">🚀 Deployment</h3>
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?perline=10&i=streamlit,fastapi,flask"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=streamlit"/>
 </p>
 
 <h3 align="center">⚙️ Tools I Use</h3>
