@@ -33,17 +33,12 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 ### 💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres" />
 </p>
 
 ### 📊 Data Science & ML & DL
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,sklearn,tensorflow,pytorch" />
 </p>
 
 ### ⚡ Big Data
@@ -58,8 +53,12 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 ## ⚙️ Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+## ⚙️ OS I Can Use
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux," />
 </p>
 
 ---
