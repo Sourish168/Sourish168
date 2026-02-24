@@ -37,39 +37,38 @@ I love building clean, scalable data solutions and continuously learning new tec
 
 ---
 
-<h2 align="right"> 🧠 Skills & Tech Stack </h2>
+<h2 align="center">🧠 Skills & Tech Stack</h2>
 
-<h3 align="right"> 💻 Programming </h3>
-<p align="right">
+<h3 align="center">💻 Programming</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres"/>
 </p>
 
-<h3 align="right"> 📊 Data Science & ML / DL </h3>
-<p align="right">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=numpy,pandas,matplotlib"/>
+<h3 align="center">📊 Data Science / Machine Learning / Deep Learning</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=numpy,pandas,matplotlib,jupyter"/>
   <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
 </p>
 
-<h3 align="right"> ⚡ Big Data </h3>
-<p align="right">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=apachespark"/>
+<h3 align="center">⚡ Big Data</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=apachespark"/>
 </p>
 
-<h3 align="right"> 🚀 Deployment </h3>
-<p align="right">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=streamlit"/>
+<h3 align="center">🚀 Deployment</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=streamlit,fastapi,flask"/>
 </p>
 
-<h3 align="right"> ⚙️ Tools I Use </h3>
-<p align="right">
+<h3 align="center">⚙️ Tools I Use</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode"/>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=jupyter"/>
+  <img src="https://skills.syvixor.com/api/icons?perline=10&i=jupyter"/>
 </p>
 
-<h3 align="right"> ⚙️ OS I Can Use </h3>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=windows,linux"/>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=macos"/>
+<h3 align="center">💻 Operating Systems</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=windows,linux,macos"/>
 </p>
 
 ---
