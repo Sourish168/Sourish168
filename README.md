@@ -78,7 +78,7 @@ I love building clean, scalable data solutions and continuously learning new tec
 ### 🏢 [Sravathi AI Tech PVT LTD](https://sravathi.ai/)
 **Associate Data Scientist** • [Bangalore, India](https://maps.app.goo.gl/4hDsJZk6nNWLffNU7)
 
-*Nov, 2024 - Present*
+*Nov 2024 - Present*
 - 💻 Building Machine Learning models for real-world problems  
 - 📊 Developing data pipelines and performing advanced analysis  
 - 🧠 Working with Python, SQL, and large datasets  
@@ -101,6 +101,8 @@ I love building clean, scalable data solutions and continuously learning new tec
 [Belur, Howrah, West Bengal](https://maps.app.goo.gl/NCZfmLE5FydRFhiD9)
 
 **Master’s Degree — [Data Science / Big Data Analytics](https://cs.rkmvu.ac.in/academics-msc-in-big-data-analytics-data-science/)**
+
+*August 2022 - July 2024*
 - 📊 Focus: Data Science, Machine Learning, Deep Learning, Statistics  
 - 📚 Interests: AI, Data Engineering, Advanced Analytics  
 
@@ -110,6 +112,8 @@ I love building clean, scalable data solutions and continuously learning new tec
 [Chandannagar, Hooghly, West Bengal](https://maps.app.goo.gl/HuwTFW46ewZ9qApr6)
 
 **Bachelor’s Degree — [Mathematics](https://www.chandernagorecollege.ac.in/department.php?dept=MATH)**
+
+*August 2019 - June 2022*
 - 📊 Core Subjects:
   - Linear Algebra
   - Abstract Algebra
