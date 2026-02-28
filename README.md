@@ -81,7 +81,7 @@ I love building clean, scalable data solutions and continuously learning new tec
 *Nov 2024 - Present*
 - 💻 Building Machine Learning models for real-world problems  
 - 📊 Developing data pipelines and performing advanced analysis  
-- 🧠 Working with Python, SQL, and large datasets  
+- 🧠 Working with Python, SQL and large datasets  
 - 🚀 Improving skills in Deep Learning and scalable ML systems  
 
 ---
@@ -90,8 +90,8 @@ I love building clean, scalable data solutions and continuously learning new tec
 **Data Science Intern** • Remote
 
 *June 2024 - July 2024*
-
-*(Experience details can be added here later)*
+- 📊 Collecting data for making a database using webscraping methods
+- 🧠 Working with Python and large datasets
 
 ---
 
